@@ -46,12 +46,13 @@
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<meta id="collection-1" property="belongs-to-collection">Allan Quatermain</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<meta property="group-position" refines="#collection-1">15</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of short stories about a legendary hunter, in order of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Written in different magazines across forty years, &lt;a href="https://standardebooks.org/collections/allan-quatermain"&gt;Allan Quatermain’s&lt;/a&gt; short stories take the reader into the heart of the unforgivable African jungles. These short vingettes tell of various adventures in the fabled hunter’s life told in his own voice over dinners or old journals. From buffalos, to lions, to inter-tribe battles, Quatermain’s scars and stories prove that he has the grit and steady shot to overcome what other men would never dare.&lt;/p&gt;
+			&lt;p&gt;Condensed into &lt;i&gt;Hunter Quatermain’s Story: The Uncollected Adventures of Allan Quatermain&lt;/i&gt; in 2003, this Standard Ebook uses the original publications of the short stories.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- "Hunter Quatermain's Story", 1885 -->
@@ -66,7 +67,6 @@
 		<dc:source>https://catalog.hathitrust.org/Record/00024526</dc:source>
 		<!-- Magepa -->
 		<dc:source>https://archive.org/details/smithandpharaohs00haggrich</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Allan_Quatermain#Summaries_of_the_stories</meta>
@@ -78,10 +78,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80010495</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Théodore Géricault</dc:contributor>
+		<meta property="file-as" refines="#artist">Géricault, Théodore</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50016306</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">John Bickers</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Bickers, John</meta>
