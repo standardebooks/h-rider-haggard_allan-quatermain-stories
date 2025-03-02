@@ -49,9 +49,9 @@
 		<meta property="se:is-a-collection">true</meta>
 		<meta id="collection-1" property="belongs-to-collection">Allan Quatermain</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<dc:description id="description">A collection of short stories about a legendary hunter, in order of publication.</dc:description>
+		<dc:description id="description">A collection of short stories about a legendary hunter.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Written in different magazines across forty years, &lt;a href="https://standardebooks.org/collections/allan-quatermain"&gt;Allan Quatermain’s&lt;/a&gt; short stories take the reader into the heart of the unforgivable African jungles. These short vingettes tell of various adventures in the fabled hunter’s life told in his own voice over dinners or old journals. From buffalos, to lions, to inter-tribe battles, Quatermain’s scars and stories prove that he has the grit and steady shot to overcome what other men would never dare.&lt;/p&gt;
+			&lt;p&gt;Written in different magazines across forty years, &lt;a href="https://standardebooks.org/collections/allan-quatermain"&gt;Allan Quatermain’s&lt;/a&gt; short stories take the reader into the heart of the unforgivable African jungles. These short vignettes tell of various adventures in the fabled hunter’s life told in his own voice over dinners or old journals. From buffalos, to lions, to inter-tribe battles, Quatermain’s scars and stories prove that he has the grit and steady shot to overcome what other men would never dare.&lt;/p&gt;
 			&lt;p&gt;Condensed into &lt;i&gt;Hunter Quatermain’s Story: The Uncollected Adventures of Allan Quatermain&lt;/i&gt; in 2003, this Standard Ebook uses the original publications of the short stories.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -94,6 +94,7 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Widger, David</meta>
+		<meta property="se:url.authority.nacoaf" refines="#transcriber-4">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-5">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Online Distributed Proofreading Team, The</meta>
