@@ -119,7 +119,6 @@
 		<item href="text/a-tale-of-three-lions.xhtml" id="a-tale-of-three-lions.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hunter-quatermains-story.xhtml" id="hunter-quatermains-story.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/long-odds.xhtml" id="long-odds.xhtml" media-type="application/xhtml+xml"/>
@@ -131,7 +130,6 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="hunter-quatermains-story.xhtml"/>
 		<itemref idref="long-odds.xhtml"/>
 		<itemref idref="a-tale-of-three-lions.xhtml"/>
