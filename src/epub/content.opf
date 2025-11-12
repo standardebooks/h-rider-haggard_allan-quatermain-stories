@@ -76,8 +76,8 @@
 		<meta property="se:name.person.full-name" refines="#author">Henry Rider Haggard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._Rider_Haggard</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80010495</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Théodore Géricault</dc:contributor>
 		<meta property="file-as" refines="#artist">Géricault, Théodore</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault</meta>
@@ -96,10 +96,10 @@
 		<meta property="file-as" refines="#transcriber-4">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-4">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-5">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-5">https://www.pgdp.net/</meta>
-		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Elizabeth Miller-Boldt</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Miller-Boldt, Elizabeth</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
