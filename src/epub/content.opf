@@ -67,7 +67,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/000245267</dc:source>
 		<!-- Magepa -->
 		<dc:source>https://archive.org/details/smithandpharaohs00haggrich</dc:source>
-		<meta property="se:word-count">30286</meta>
+		<meta property="se:word-count">30156</meta>
 		<meta property="se:reading-ease.flesch">72.19</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Allan_Quatermain#Summaries_of_the_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-rider-haggard_allan-quatermain-stories</meta>
