@@ -51,7 +51,7 @@
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<meta id="collection-1" property="belongs-to-collection">Allan Quatermain</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<dc:abstract>A collection of short stories about a legendary hunter.</dc:abstract>
+		<meta property="schema:abstract">A collection of short stories about a legendary hunter.</meta>
 		<dc:description>
 			&lt;p&gt;Published in different magazines across forty years, &lt;a href="https://standardebooks.org/collections/allan-quatermain"&gt;Allan Quatermain’s&lt;/a&gt; short stories take the reader into the heart of the unforgivable African jungles. These short vignettes tell of the titular hunter’s various adventures, told in his own voice over dinners or in old journals. From buffaloes, to lions, to inter-tribe battles, Quatermain’s scars and stories prove that he has the grit and steady shot to overcome what other men would never dare.&lt;/p&gt;
 		</dc:description>
