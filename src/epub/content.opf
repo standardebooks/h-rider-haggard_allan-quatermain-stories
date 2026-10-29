@@ -83,6 +83,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Théodore Géricault</dc:contributor>
 		<meta property="file-as" refines="#artist">Géricault, Théodore</meta>
+		<meta property="schema:alternateName" refines="#artist">Jean-Louis André Théodore Géricault</meta>
 		<link href="https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50016306.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
@@ -98,6 +99,7 @@
 		<dc:contributor id="transcriber-4">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Widger, David</meta>
 		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-4" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-4" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-5">Distributed Proofreaders</dc:contributor>
